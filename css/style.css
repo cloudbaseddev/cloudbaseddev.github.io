@@ -31,11 +31,13 @@ header {
     align-items: center;
 
 }
-.testimonial-heading h1 {
+.testimonial-heading span {
     font-size: 2.2rem;
     font-weight: 500;
-    background-color: #202020;
+    background-color: #4357AD;
+    
     color: white;
+    padding: 10px 20px;
 
 }
 
@@ -53,3 +55,7 @@ header {
 
 }
 
+.testimonial-heading h1 {
+    font-size: 1.3rem;
+    
+}
